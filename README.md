@@ -6,6 +6,13 @@ A real-time browser app that lets you charge and fire Goku's Kamehameha using yo
 
 ---
 
+
+
+<img width="1380" height="1426" alt="image" src="https://github.com/user-attachments/assets/a67db3f8-8a13-456a-895b-619139792ab5" />
+
+
+
+
 ## 🎮 How It Works
 
 | Step | Gesture | Effect |
